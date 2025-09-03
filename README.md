@@ -47,7 +47,7 @@ Here are some ideas to get you start<h1 align="center">Hey there, I'm Abhishek k
 ## 🎓 Certifications & Training
 - ✅ MongoDB  
 - ✅ Big Data Analytics (BDA)  
-- ✅ HTML & CSS  
+- ✅ HTML, CSS  & javascript 
 
 ---
 
